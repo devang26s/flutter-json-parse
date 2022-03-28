@@ -1,10 +1,10 @@
-# taskone
+# JSON Parsing as mock API
 
-A new Flutter project.
+In this project we've done a simple process of Parsing JSON as mock Api in our flutter developed application.
 
-## Getting Started
+## About Project
 
-This project is a starting point for a Flutter application.
+In this, the vesion of Flutter is v2.10.3 (Stable).
 
 A few resources to get you started if this is your first Flutter project:
 
